@@ -1,0 +1,11 @@
+pandas
+requests
+python-dotenv
+boto3
+matplotlib
+scikit-learn
+apache-airflow
+dbt-core
+sqlalchemy
+psycopg2-binary
+pyspark
