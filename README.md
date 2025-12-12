@@ -5,14 +5,14 @@ An end-to-end **fintech data platform** that ingests **real stock and crypto mar
 ## 🔍 What this project does
 
 - Collects **real-time & historical** price data for:
-  - Selected **stocks** (e.g. AAPL, MSFT, TSLA)
-  - Selected **crypto pairs** (e.g. BTC/USDT, ETH/USDT)
-- Stores raw market data in a **data lake** (local + AWS S3)
+  - Selected **stocks** (e.g. AAPL, MSFT, TSLA).
+  - Selected **crypto pairs** (e.g. BTC/USDT, ETH/USDT).
+- Stores raw market data in a **data lake** (local + AWS S3).
 - Cleans and transforms data into **feature-rich time series**
 - Trains **ML models** to predict:
-  - Next price/return
-  - Up/down movement
-- Outputs **signals** (BUY / SELL / HOLD) and evaluation metrics
+  - Next price/return.
+  - Up/down movement.
+- Outputs **signals** (BUY / SELL / HOLD) and evaluation metrics.
 
 This project is built as a **learning and portfolio project** to simulate how real trading/quant/fintech platforms handle data and predictions.
 
